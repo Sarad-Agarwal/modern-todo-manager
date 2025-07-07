@@ -172,4 +172,4 @@ Visit `http://localhost:5173` (or as shown in terminal) to view the app.
 
 ---
 
-### Made with ❤️ using React, TypeScript, Tailwind CSS and a passion for clean design.
+### Made using React, TypeScript, Tailwind CSS and a passion for clean design.
