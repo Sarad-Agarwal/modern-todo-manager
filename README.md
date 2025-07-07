@@ -6,7 +6,7 @@ A beautifully designed and fully functional **React + TypeScript** task manageme
 
 ## 📌 Live Demo
 
-🔗 [Click here to view the live app](https://your-live-app-url.com)
+🔗 [Click here to view the live app](http://modern-todo-manager-one.vercel.app/)
 
 ---
 
