@@ -141,11 +141,14 @@ Visit `http://localhost:5173` (or as shown in terminal) to view the app.
 
 ## 🖼 Screenshots
 
-> Add relevant screenshots of:
->
-> * Task dashboard
-> * Filtering and completion views
-> * Mobile responsiveness
+> 
+![Uploading Screenshot 2025-07-07 135916.png…]()
+![Screenshot 2025-07-07 140338](https://github.com/user-attachments/assets/3ee348ec-6610-4466-9eba-8743c863b2d0)
+![Screenshot 2025-07-07 140157](https://github.com/user-attachments/assets/0f7fca43-7b2c-409d-a1cc-6803ee094378)
+![Screenshot 2025-07-07 140144](https://github.com/user-attachments/assets/61463154-8ee8-4c6b-81ab-904aeac4b9ba)
+![Screenshot 2025-07-07 140132](https://github.com/user-attachments/assets/998e5de1-5422-4406-bf5a-52b266c603a4)
+![Screenshot 2025-07-07 135942](https://github.com/user-attachments/assets/10e30585-9799-43a0-8299-11e0a3185cf8)
+![Screenshot 2025-07-07 135930](https://github.com/user-attachments/assets/88a366f8-f4b0-4207-93e9-7b90d5901ec5)
 
 ---
 
